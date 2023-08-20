@@ -37,15 +37,19 @@ This repo is for our paper: https://arxiv.org/abs/2307.06435
 ### General Purpose
 * **T5:** Exploring the limits of transfer learning with a unified text-to-text transformer, JMLR, 2020. [[Paper](https://arxiv.org/abs/1910.10683)]
 * **GPT-3:** Language Models are Few-Shot Learners, NeurIPS, 2020. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2020/hash/1457c0d6bfcb4967418bfb8ac142f64a-Abstract.html?utm_medium=email&utm_source=transaction)]
-* **mT5:** mT5: A Massively Multilingual Pre-trained Text-to-Text Transformer, NAACL, 2021. [[Paper](https://arxiv.org/abs/2010.11934)]
-* **PanGu-alpha:** PanGu-alpha: Large-scale Autoregressive Pretrained Chinese Language Models with Auto-parallel Computation, arXiv, 2021. [[Paper](https://arxiv.org/abs/2104.12369)]
-* **CPM-2:** CPM-2: Large-scale cost-effective pre-trained language models, AI Open, 2021. [[Paper](https://www.sciencedirect.com/science/article/pii/S2666651021000310)]
-* **Ernie 3.0:** Ernie 3.0: Large-scale knowledge enhanced pre-training for language understanding and generation. arXiv, 2021. [[Paper](https://arxiv.org/abs/2107.02137)]
-* **JURASSIC-1:** JURASSIC-1: Technical Details and Evaluation, White Paper, 2021.
+* **mT5:** A Massively Multilingual Pre-trained Text-to-Text Transformer, NAACL, 2021. [[Paper](https://arxiv.org/abs/2010.11934)]
+* **PanGu-alpha:** Large-scale Autoregressive Pretrained Chinese Language Models with Auto-parallel Computation, arXiv, 2021. [[Paper](https://arxiv.org/abs/2104.12369)]
+* **CPM-2:** Large-scale cost-effective pre-trained language models, AI Open, 2021. [[Paper](https://www.sciencedirect.com/science/article/pii/S2666651021000310)]
+* **Ernie 3.0:** Large-scale knowledge enhanced pre-training for language understanding and generation. arXiv, 2021. [[Paper](https://arxiv.org/abs/2107.02137)]
+* **JURASSIC-1:** Technical Details and Evaluation, White Paper, 2021.
 * **HyperCLOVA:** What Changes Can Large-scale Language Models Bring? Intensive Study on HyperCLOVA: Billions-scale Korean Generative Pretrained Transformers, arXiv, 2021. [[Paper](https://arxiv.org/abs/2109.04650)]
-* **Yuan 1.0:** Yuan 1.0: Large-scale pre-trained language model in zero-shot and few-shot learning, arXiv, 2021. [[Paper](https://arxiv.org/abs/2110.04725)]
+* **Yuan 1.0:** Large-scale pre-trained language model in zero-shot and few-shot learning, arXiv, 2021. [[Paper](https://arxiv.org/abs/2110.04725)]
 * **Gopher:** Scaling language models: Methods, analysis & insights from training gopher, arXiv, 2021. [[Paper](https://arxiv.org/abs/2112.11446)]
-* **Ernie 3.0 titan:** Ernie 3.0 titan: Exploring larger-scale knowledge enhanced pre-training for language understanding and generation, arXiv, 2021. [[Paper](https://arxiv.org/abs/2112.12731)]
+* **Ernie 3.0 titan:** Exploring larger-scale knowledge enhanced pre-training for language understanding and generation, arXiv, 2021. [[Paper](https://arxiv.org/abs/2112.12731)]
+* **Gpt-neox-20b:** An open-source autoregressive language model, arXiv, 2022. [[Paper](https://arxiv.org/abs/2204.06745)]
+* **Opt:** Open pre-trained transformer language models, arXiv, 2022. [[Paper](https://arxiv.org/abs/2205.01068)]
+* **Bloom:** A 176b-parameter open-access multilingual language model, arXiv, 2022. [[Paper](https://arxiv.org/abs/2211.05100)]
+* **Glam:** Efficient scaling of language models with mixture-of-experts, ICML, 2022. [[Paper](https://proceedings.mlr.press/v162/du22c.html)]
 
 
 ## Fine-tuned LLMs
