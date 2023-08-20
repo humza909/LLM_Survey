@@ -8,6 +8,7 @@ This repo is for our paper: https://arxiv.org/abs/2307.06435
 ## Contents
 - [Surveys](#surveys)
 - [Pre-trained LLMs](#pre-trained-llms)
+  - [General Purpose](#general-purpose) 
 - [Fine-tuned LLMs](#fine-tuned-llms)
   - [Instruction-tuned with Manually Created Datasets](#instruction-tuned-with-manually-created-datasets)
   - [Instruction-tuned with LLMs Generated Datasets](#instruction-tuned-with-llms-generated-datasets)
@@ -33,7 +34,16 @@ This repo is for our paper: https://arxiv.org/abs/2307.06435
 * Aligning Large Language Models with Human: A Survey, arXiv, 2023. [[Paper](https://arxiv.org/abs/2307.12966)]
 * A Comprehensive Survey on Pretrained Foundation Models: A History from BERT to ChatGPT, arXiv, 2023. [[Paper](https://arxiv.org/abs/2302.09419)]
 ## Pre-trained LLMs
+### General Purpose
 * **T5:** Exploring the limits of transfer learning with a unified text-to-text transformer, JMLR, 2020. [[Paper](https://arxiv.org/abs/1910.10683)]
+* **GPT-3:** Language Models are Few-Shot Learners, NeurIPS, 2020. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2020/hash/1457c0d6bfcb4967418bfb8ac142f64a-Abstract.html?utm_medium=email&utm_source=transaction)]
+* **mT5:** mT5: A Massively Multilingual Pre-trained Text-to-Text Transformer, NAACL, 2021. [[Paper](https://arxiv.org/abs/2010.11934)]
+* **PanGu-alpha:** PanGu-alpha: Large-scale Autoregressive Pretrained Chinese Language Models with Auto-parallel Computation, arXiv, 2021. [[Paper](https://arxiv.org/abs/2104.12369)]
+* **CPM-2:** CPM-2: Large-scale cost-effective pre-trained language models, AI Open, 2021. [[Paper](https://www.sciencedirect.com/science/article/pii/S2666651021000310)]
+* **Ernie 3.0:** Ernie 3.0: Large-scale knowledge enhanced pre-training for language understanding and generation. arXiv, 2021. [[Paper](https://arxiv.org/abs/2107.02137)]
+* **JURASSIC-1:** JURASSIC-1: Technical Details and Evaluation, White Paper, 2021.
+* **HyperCLOVA:** What Changes Can Large-scale Language Models Bring? Intensive Study on HyperCLOVA: Billions-scale Korean Generative Pretrained Transformers, arXiv, 2021. [[Paper](https://arxiv.org/abs/2109.04650)]
+
 
 ## Fine-tuned LLMs
 
