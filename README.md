@@ -15,6 +15,7 @@ This repo is for our paper: https://arxiv.org/abs/2307.06435
 
 ## Surveys
 * Towards Reasoning in Large Language Models: A Survey, arXiv, 2022. [[Paper](https://arxiv.org/abs/2212.10403)]
+* Emergent Abilities of Large Language Models, arXiv, 2022. [[Paper](https://arxiv.org/abs/2206.07682)]
 * Several categories of Large Language Models (LLMs): A Short Survey arXiv, 2023. [[Paper](https://arxiv.org/abs/2307.10188)]
 * Retrieving Multimodal Information for Augmented Generation: A Survey, arXiv, 2023. [[Paper](https://arxiv.org/abs/2303.10868)]
 * Large Language Models in Medical Education: Opportunities, Challenges, and Future Directions, JMIR, 2023. [[Paper](https://mededu.jmir.org/2023/1/e48291/)]
