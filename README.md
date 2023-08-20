@@ -43,6 +43,9 @@ This repo is for our paper: https://arxiv.org/abs/2307.06435
 * **Ernie 3.0:** Ernie 3.0: Large-scale knowledge enhanced pre-training for language understanding and generation. arXiv, 2021. [[Paper](https://arxiv.org/abs/2107.02137)]
 * **JURASSIC-1:** JURASSIC-1: Technical Details and Evaluation, White Paper, 2021.
 * **HyperCLOVA:** What Changes Can Large-scale Language Models Bring? Intensive Study on HyperCLOVA: Billions-scale Korean Generative Pretrained Transformers, arXiv, 2021. [[Paper](https://arxiv.org/abs/2109.04650)]
+* **Yuan 1.0:** Yuan 1.0: Large-scale pre-trained language model in zero-shot and few-shot learning, arXiv, 2021. [[Paper](https://arxiv.org/abs/2110.04725)]
+* **Gopher:** Scaling language models: Methods, analysis & insights from training gopher, arXiv, 2021. [[Paper](https://arxiv.org/abs/2112.11446)]
+* **Ernie 3.0 titan:** Ernie 3.0 titan: Exploring larger-scale knowledge enhanced pre-training for language understanding and generation, arXiv, 2021. [[Paper](https://arxiv.org/abs/2112.12731)]
 
 
 ## Fine-tuned LLMs
