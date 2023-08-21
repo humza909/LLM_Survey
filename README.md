@@ -51,6 +51,15 @@ This repo is for our paper: https://arxiv.org/abs/2307.06435
 * **Opt:** Open pre-trained transformer language models, arXiv, 2022. [[Paper](https://arxiv.org/abs/2205.01068)]
 * **Bloom:** A 176b-parameter open-access multilingual language model, arXiv, 2022. [[Paper](https://arxiv.org/abs/2211.05100)]
 * **Glam:** Efficient scaling of language models with mixture-of-experts, ICML, 2022. [[Paper](https://proceedings.mlr.press/v162/du22c.html)]
+* **MT-NLG:** Using deepspeed and megatron to train megatron-turing nlg 530b, a large-scale generative language model, arXiv, 2022. [[Paper](https://arxiv.org/abs/2201.11990)]
+* **Chinchilla:** Training compute-optimal large language models, arXiv, 2022. [[Paper](https://arxiv.org/abs/2203.15556)]
+* **Alexatm 20b:** Few-shot learning using a large-scale multilingual seq2seq model, arXiv, 2022. [[Paper](https://arxiv.org/abs/2208.01448)]
+* **Palm:** Scaling language modeling with pathways, arXiv, 2022. [[Paper](https://arxiv.org/abs/2204.02311)]
+* **U-Palm:** Transcending scaling laws with 0.1% extra compute, arXiv, 2022. [[Paper](https://arxiv.org/abs/2210.11399)]
+* **Ul2:** Unifying language learning paradigms, ICLR, 2022. [[Paper](https://openreview.net/forum?id=6ruVLB727MC)]
+* **Glm-130b:** An open bilingual pre-trained model, arXiv, 2022. [[Paper](https://arxiv.org/abs/2210.02414)]
+* **Llama:** Open and efficient foundation language models, arXiv, 2023. [[Paper](https://arxiv.org/abs/2302.13971)]
+* **PanGu-Sigma:** Towards Trillion Parameter Language Model with Sparse Heterogeneous Computing, arXiv, 2023. [[Paper](https://arxiv.org/abs/2303.10845)]
 
 
 ## Fine-tuned LLMs
