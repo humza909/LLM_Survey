@@ -70,7 +70,14 @@ This repo is for our paper: https://arxiv.org/abs/2307.06435
 * **Alpha Code:** Competition-level code generation with alphacode, Science, 2022. [[Paper](https://www.science.org/doi/abs/10.1126/science.abq1158)]
 * **Codet5+:** Open code large language models for code understanding and generation, arXiv, 2023. [[Paper](https://arxiv.org/abs/2305.07922)]
 * **StarCoder:** may the source be with you!, arXiv, 2023. [[Paper](https://arxiv.org/abs/2305.06161)]
-
+### Scientific Knowledge
+* **Galactica:** A large language model for science, arXiv, 2022, [[Paper](https://arxiv.org/abs/2211.09085)]
+### Dialog
+* **Lamda:** Language models for dialog applications, arXiv, 2022. [[Paper](https://arxiv.org/abs/2201.08239)]
+* **Sparrow:** Improving alignment of dialogue agents via targeted human judgements, arXiv, 2022. [[Paper](https://arxiv.org/abs/2209.14375)]
+### Finance
+* **Bloomberggpt:** A large language model for finance, arXiv, 2023. [[Paper](https://arxiv.org/abs/2303.17564)]
+* **XuanYuan 2.0:** A Large Chinese Financial Chat Model with Hundreds of Billions Parameters, arXiv, 2023. [[Paper](https://arxiv.org/abs/2305.12002)]
 ## Fine-tuned LLMs
 
 ### Instruction-tuned with Manually Created Datasets
