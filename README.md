@@ -8,7 +8,11 @@ This repo is for our paper: https://arxiv.org/abs/2307.06435
 ## Contents
 - [Surveys](#surveys)
 - [Pre-trained LLMs](#pre-trained-llms)
-  - [General Purpose](#general-purpose) 
+  - [General Purpose](#general-purpose)
+  - [Coding](#coding)
+  - [Scientific Knowledge](#scientific-knowledge)
+  - [Dialog](#dialog)
+  - [Finance](#finance)
 - [Fine-tuned LLMs](#fine-tuned-llms)
   - [Instruction-tuned with Manually Created Datasets](#instruction-tuned-with-manually-created-datasets)
   - [Instruction-tuned with LLMs Generated Datasets](#instruction-tuned-with-llms-generated-datasets)
@@ -60,7 +64,12 @@ This repo is for our paper: https://arxiv.org/abs/2307.06435
 * **Glm-130b:** An open bilingual pre-trained model, arXiv, 2022. [[Paper](https://arxiv.org/abs/2210.02414)]
 * **Llama:** Open and efficient foundation language models, arXiv, 2023. [[Paper](https://arxiv.org/abs/2302.13971)]
 * **PanGu-Sigma:** Towards Trillion Parameter Language Model with Sparse Heterogeneous Computing, arXiv, 2023. [[Paper](https://arxiv.org/abs/2303.10845)]
-
+### Coding
+* **Codegen:** An open large language model for code with multi-turn program synthesis, arXiv, 2022. [[Paper](https://arxiv.org/abs/2203.13474)]
+* **Codex:** Evaluating large language models trained on code, arXiv, 2021. [[Paper](https://arxiv.org/abs/2107.03374)]
+* **Alpha Code:** Competition-level code generation with alphacode, Science, 2022. [[Paper](https://www.science.org/doi/abs/10.1126/science.abq1158)]
+* **Codet5+:** Open code large language models for code understanding and generation, arXiv, 2023. [[Paper](https://arxiv.org/abs/2305.07922)]
+* **StarCoder:** may the source be with you!, arXiv, 2023. [[Paper](https://arxiv.org/abs/2305.06161)]
 
 ## Fine-tuned LLMs
 
