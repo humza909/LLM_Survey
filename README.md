@@ -82,6 +82,13 @@ This repo is for our paper: https://arxiv.org/abs/2307.06435
 ## Fine-tuned LLMs
 
 ### Instruction-tuned with Manually Created Datasets
+* **T0:** Multitask prompted training enables zero-shot task generalization, arXiv, 2021. [[Paper](https://arxiv.org/abs/2110.08207)]
+* **mT0:** Crosslingual generalization through multitask fine-tuning, arXiv, 2022. [[Paper](https://arxiv.org/abs/2211.01786)]
+* **Tk-Instruct:** Super-naturalinstructions: Generalization via declarative instructions on 1600+ nlp tasks, arXiv, 2022. [[Paper](https://arxiv.org/abs/2211.01786)]
+* **Opt-iml:** Scaling language model instruction meta learning through the lens of generalization, arXiv, 2022. [[Paper](https://arxiv.org/abs/2212.12017)]
+* **Flan:** Scaling instruction-finetuned language models, arXiv, 2022. [[Paper](https://arxiv.org/abs/2210.11416)]
+* **The CoT Collection:** Improving Zero-shot and Few-shot Learning of Language Models via Chain-of-Thought Fine-Tuning, arXiv, 2023. [[Paper](https://arxiv.org/abs/2305.14045)]
+* From zero to hero: Examining the power of symbolic tasks in instruction tuning, arXiv, 2023. [[Paper](https://arxiv.org/abs/2304.07995)]
 
 ### Instruction-tuned with LLMs Generated Datasets
 
