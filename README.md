@@ -14,8 +14,8 @@ This repo is for our paper: https://arxiv.org/abs/2307.06435
   - [Dialog](#dialog)
   - [Finance](#finance)
 - [Fine-tuned LLMs](#fine-tuned-llms)
-  - [Instruction-tuned with Manually Created Datasets](#instruction-tuned-with-manually-created-datasets)
-  - [Instruction-tuned with LLMs Generated Datasets](#instruction-tuned-with-llms-generated-datasets)
+  - [Instruction-tuning with Manually Created Datasets](#instruction-tuning-with-manually-created-datasets)
+  - [Instruction-tuning with LLMs Generated Datasets](#instruction-tuning-with-llms-generated-datasets)
 
 ## Surveys
 * Towards Reasoning in Large Language Models: A Survey, arXiv, 2022. [[Paper](https://arxiv.org/abs/2212.10403)]
@@ -81,7 +81,7 @@ This repo is for our paper: https://arxiv.org/abs/2307.06435
 * **XuanYuan 2.0:** A Large Chinese Financial Chat Model with Hundreds of Billions Parameters, arXiv, 2023. [[Paper](https://arxiv.org/abs/2305.12002)]
 ## Fine-tuned LLMs
 
-### Instruction-tuned with Manually Created Datasets
+### Instruction-tuning with Manually Created Datasets
 * **T0:** Multitask prompted training enables zero-shot task generalization, arXiv, 2021. [[Paper](https://arxiv.org/abs/2110.08207)]
 * **mT0:** Crosslingual generalization through multitask fine-tuning, arXiv, 2022. [[Paper](https://arxiv.org/abs/2211.01786)]
 * **Tk-Instruct:** Super-naturalinstructions: Generalization via declarative instructions on 1600+ nlp tasks, arXiv, 2022. [[Paper](https://arxiv.org/abs/2211.01786)]
@@ -90,6 +90,6 @@ This repo is for our paper: https://arxiv.org/abs/2307.06435
 * **The CoT Collection:** Improving Zero-shot and Few-shot Learning of Language Models via Chain-of-Thought Fine-Tuning, arXiv, 2023. [[Paper](https://arxiv.org/abs/2305.14045)]
 * From zero to hero: Examining the power of symbolic tasks in instruction tuning, arXiv, 2023. [[Paper](https://arxiv.org/abs/2304.07995)]
 
-### Instruction-tuned with LLMs Generated Datasets
+### Instruction-tuning with LLMs Generated Datasets
 
 
