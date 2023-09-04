@@ -95,7 +95,7 @@ This repo is for our paper: https://arxiv.org/abs/2307.06435
 * **Self-instruct:** Aligning language model with self generated instructions, arXiv, 2022. [[Paper](https://arxiv.org/abs/2212.10560)]
 * **Dynosaur:** A Dynamic Growth Paradigm for Instruction-Tuning Data Curation, arXiv, 2023. [[Paper](https://arxiv.org/abs/2305.14327)]
 * **Stanford Alpaca:** An Instruction-following LLaMA model, Github, 2023. [[Link](https://github.com/tatsu-lab/stanford_alpaca)]
-* **Vicucna:**, Github, 2023. [[Link](https://github.com/lm-sys/FastChat)]
+* **Vicucna:** Github, 2023. [[Link](https://github.com/lm-sys/FastChat)]
 * **LLaMA-GPT-4:** INSTRUCTION TUNING WITH GPT-4, arXiv, 2023. [[Paper](https://arxiv.org/abs/2304.03277)]
 * **Goat:** Fine-tuned LLaMA Outperforms GPT-4 on Arithmetic Tasks, arXiv, 2023. [[Paper](https://arxiv.org/abs/2305.14201)]
 * **Huatuo:** Tuning llama model with chinese medical knowledge, arXiv, 2023. [[Paper](https://arxiv.org/abs/2304.06975)]
