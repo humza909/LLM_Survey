@@ -39,6 +39,7 @@ This repo is for our paper: https://arxiv.org/abs/2307.06435
 * Aligning Large Language Models with Human: A Survey, arXiv, 2023. [[Paper](https://arxiv.org/abs/2307.12966)]
 * A Comprehensive Survey on Pretrained Foundation Models: A History from BERT to ChatGPT, arXiv, 2023. [[Paper](https://arxiv.org/abs/2302.09419)]
 * Instruction Tuning for Large Language Models: A Survey, aeXiv, 2023. [[Paper](https://arxiv.org/pdf/2308.10792v1.pdf)]
+* Examining User-Friendly and Open-Sourced Large GPT Models: A Survey on Language, Multimodal, and Scientific GPT Models, arXiv, 2023. [[Paper](https://arxiv.org/abs/2308.14149)]
 ## Pre-trained LLMs
 ### General Purpose
 * **T5:** Exploring the limits of transfer learning with a unified text-to-text transformer, JMLR, 2020. [[Paper](https://arxiv.org/abs/1910.10683)]
@@ -91,5 +92,12 @@ This repo is for our paper: https://arxiv.org/abs/2307.06435
 * From zero to hero: Examining the power of symbolic tasks in instruction tuning, arXiv, 2023. [[Paper](https://arxiv.org/abs/2304.07995)]
 
 ### Instruction-tuning with LLMs Generated Datasets
+* **Self-instruct:** Aligning language model with self generated instructions, arXiv, 2022. [[Paper](https://arxiv.org/abs/2212.10560)]
+* **Dynosaur:** A Dynamic Growth Paradigm for Instruction-Tuning Data Curation, arXiv, 2023. [[Paper](https://arxiv.org/abs/2305.14327)]
+* **Stanford Alpaca:** An Instruction-following LLaMA model, Github, 2023. [[Link](https://github.com/tatsu-lab/stanford_alpaca)]
+* **Vicucna:**, Github, 2023. [[Link](https://github.com/lm-sys/FastChat)]
+* **LLaMA-GPT-4:** INSTRUCTION TUNING WITH GPT-4, arXiv, 2023. [[Paper](https://arxiv.org/abs/2304.03277)]
+* **Goat:** Fine-tuned LLaMA Outperforms GPT-4 on Arithmetic Tasks, arXiv, 2023. [[Paper](https://arxiv.org/abs/2305.14201)]
+* **Huatuo:** Tuning llama model with chinese medical knowledge, arXiv, 2023. [[Paper](https://arxiv.org/abs/2304.06975)]
 
 
