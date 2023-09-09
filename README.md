@@ -80,7 +80,6 @@ This repo is for our paper: https://arxiv.org/abs/2307.06435
 * **Galactica:** A large language model for science, arXiv, 2022, [[Paper](https://arxiv.org/abs/2211.09085)]
 ### Dialog
 * **Lamda:** Language models for dialog applications, arXiv, 2022. [[Paper](https://arxiv.org/abs/2201.08239)]
-* **Sparrow:** Improving alignment of dialogue agents via targeted human judgements, arXiv, 2022. [[Paper](https://arxiv.org/abs/2209.14375)]
 ### Finance
 * **Bloomberggpt:** A large language model for finance, arXiv, 2023. [[Paper](https://arxiv.org/abs/2303.17564)]
 * **XuanYuan 2.0:** A Large Chinese Financial Chat Model with Hundreds of Billions Parameters, arXiv, 2023. [[Paper](https://arxiv.org/abs/2305.12002)]
@@ -109,4 +108,4 @@ This repo is for our paper: https://arxiv.org/abs/2307.06435
 ### Aligning with Human Preferences
 * **InstructGPT:** Training language models to follow instructions with human feedback, NeurIPS, 2022. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/b1efde53be364a73914f58805a001731-Abstract-Conference.html)]
 * **LLaMA-2-Chat:** Llama 2: Open foundation and fine-tuned chat models, arXiv, 2023. [[Paper](https://arxiv.org/abs/2307.09288)]
-
+* **Sparrow:** Improving alignment of dialogue agents via targeted human judgements, arXiv, 2022. [[Paper](https://arxiv.org/abs/2209.14375)]
