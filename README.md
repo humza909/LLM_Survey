@@ -40,7 +40,9 @@ This repo is for our paper: https://arxiv.org/abs/2307.06435
 * A Comprehensive Survey on Pretrained Foundation Models: A History from BERT to ChatGPT, arXiv, 2023. [[Paper](https://arxiv.org/abs/2302.09419)]
 * Instruction Tuning for Large Language Models: A Survey, aeXiv, 2023. [[Paper](https://arxiv.org/pdf/2308.10792v1.pdf)]
 * Examining User-Friendly and Open-Sourced Large GPT Models: A Survey on Language, Multimodal, and Scientific GPT Models, arXiv, 2023. [[Paper](https://arxiv.org/abs/2308.14149)]
+* Foundation Models for Decision Making: Problems, Methods, and Opportunities, arXiv, 2023. [[Paper](https://arxiv.org/abs/2303.04129)]
 * How Can Recommender Systems Benefit from Large Language Models: A Survey, arXiv, 2023. [[Paper](https://arxiv.org/abs/2306.05817)]
+* A Survey on Large Language Model based Autonomous Agents, arXiv, 2023. [[Paper](https://arxiv.org/abs/2308.11432)]
 ## Pre-trained LLMs
 ### General Purpose
 * **T5:** Exploring the limits of transfer learning with a unified text-to-text transformer, JMLR, 2020. [[Paper](https://arxiv.org/abs/1910.10683)]
