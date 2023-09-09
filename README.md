@@ -16,6 +16,7 @@ This repo is for our paper: https://arxiv.org/abs/2307.06435
 - [Fine-tuned LLMs](#fine-tuned-llms)
   - [Instruction-tuning with Manually Created Datasets](#instruction-tuning-with-manually-created-datasets)
   - [Instruction-tuning with LLMs Generated Datasets](#instruction-tuning-with-llms-generated-datasets)
+  - [Aligning with Human Preferences](#aligning-with-human-preferences)
 
 ## Surveys
 * Towards Reasoning in Large Language Models: A Survey, arXiv, 2022. [[Paper](https://arxiv.org/abs/2212.10403)]
@@ -102,5 +103,10 @@ This repo is for our paper: https://arxiv.org/abs/2307.06435
 * **LLaMA-GPT-4:** INSTRUCTION TUNING WITH GPT-4, arXiv, 2023. [[Paper](https://arxiv.org/abs/2304.03277)]
 * **Goat:** Fine-tuned LLaMA Outperforms GPT-4 on Arithmetic Tasks, arXiv, 2023. [[Paper](https://arxiv.org/abs/2305.14201)]
 * **Huatuo:** Tuning llama model with chinese medical knowledge, arXiv, 2023. [[Paper](https://arxiv.org/abs/2304.06975)]
+* **Wizardlm:** Empowering large language models to follow complex instructions, arXiv, 2023. [[Paper](https://arxiv.org/abs/2304.12244)]
+* **WizardCoder:** Empowering Code Large Language Models with Evol-Instruct, arXiv, 2023. [[Paper](https://arxiv.org/abs/2306.08568)]
 
+### Aligning with Human Preferences
+* **InstructGPT:** Training language models to follow instructions with human feedback, NeurIPS, 2022. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/b1efde53be364a73914f58805a001731-Abstract-Conference.html)]
+* **LLaMA-2-Chat:** Llama 2: Open foundation and fine-tuned chat models, arXiv, 2023. [[Paper](https://arxiv.org/abs/2307.09288)]
 
