@@ -17,6 +17,8 @@ This repo is for our paper: https://arxiv.org/abs/2307.06435
   - [Instruction-tuning with Manually Created Datasets](#instruction-tuning-with-manually-created-datasets)
   - [Instruction-tuning with LLMs Generated Datasets](#instruction-tuning-with-llms-generated-datasets)
   - [Aligning with Human Preferences](#aligning-with-human-preferences)
+  - [Continue Pre-Training](#continue-pre-training)
+  - [Sample Efficiency](#sample-efficiency)
 
 ## Surveys
 * Towards Reasoning in Large Language Models: A Survey, arXiv, 2022. [[Paper](https://arxiv.org/abs/2212.10403)]
@@ -109,3 +111,12 @@ This repo is for our paper: https://arxiv.org/abs/2307.06435
 * **InstructGPT:** Training language models to follow instructions with human feedback, NeurIPS, 2022. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/b1efde53be364a73914f58805a001731-Abstract-Conference.html)]
 * **LLaMA-2-Chat:** Llama 2: Open foundation and fine-tuned chat models, arXiv, 2023. [[Paper](https://arxiv.org/abs/2307.09288)]
 * **Sparrow:** Improving alignment of dialogue agents via targeted human judgements, arXiv, 2022. [[Paper](https://arxiv.org/abs/2209.14375)]
+
+### Continue Pre-Training
+* Fine-tuned language models are continual learners, EMNLP, 2023. [[Paper](https://aclanthology.org/2022.emnlp-main.410/)]
+* Don't Stop Pretraining? Make Prompt-based Fine-tuning Powerful Learner, arXiv, 2023. [[Paper](https://arxiv.org/abs/2305.01711)]
+
+### Sample Efficiency
+* Instruction Tuned Models are Quick Learners, arXiv, 2023. [[Paper](https://arxiv.org/abs/2306.05539)]
+* Maybe Only 0.5% Data is Needed: A Preliminary Exploration of Low Training Data Instruction Tuning, arXiv, 2023. [[Paper](https://arxiv.org/abs/2305.09246)]
+* **Lima:** Less is more for alignment, arXiv, 2023. [[Paper](https://arxiv.org/abs/2305.11206)]
