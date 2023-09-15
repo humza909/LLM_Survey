@@ -5,6 +5,17 @@
 # A Comprehensive Overview of Large Language Models
 This repo is for our paper: https://arxiv.org/abs/2307.06435
 
+Please cite the paper, if our work is useful to you research:
+
+```
+@article{naveed2023comprehensive,
+  title={A Comprehensive Overview of Large Language Models},
+  author={Naveed, Humza and Khan, Asad Ullah and Qiu, Shi and Saqib, Muhammad and Anwar, Saeed and Usman, Muhammad and Barnes, Nick and Mian, Ajmal},
+  journal={arXiv preprint arXiv:2307.06435},
+  year={2023}
+}
+```
+
 ## Contents
 - [Surveys](#surveys)
 - [Pre-trained LLMs](#pre-trained-llms)
