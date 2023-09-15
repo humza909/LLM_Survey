@@ -17,6 +17,11 @@ This repo is for our paper: https://arxiv.org/abs/2307.06435
   - [Instruction-tuning with Manually Created Datasets](#instruction-tuning-with-manually-created-datasets)
   - [Instruction-tuning with LLMs Generated Datasets](#instruction-tuning-with-llms-generated-datasets)
   - [Aligning with Human Preferences](#aligning-with-human-preferences)
+      - [Aligning with Supported Evidence](#aligning-with-supported-evidence)
+      - [Aligning Directly with SFT](#aligning-directly-with-sft)
+      - [Aligning with Synthetic Feedback](#aligning-with-synthetic-feedback)
+      - [Aligning with Prompts](#aligning-with-prompts)
+      - [Red-Teaming/Jailbreaking/Adversarial Attacks](red-teaming/jalibreaking/adversarial-attacks)
   - [Continue Pre-Training](#continue-pre-training)
   - [Sample Efficiency](#sample-efficiency)
 
@@ -110,7 +115,33 @@ This repo is for our paper: https://arxiv.org/abs/2307.06435
 ### Aligning with Human Preferences
 * **InstructGPT:** Training language models to follow instructions with human feedback, NeurIPS, 2022. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/b1efde53be364a73914f58805a001731-Abstract-Conference.html)]
 * **LLaMA-2-Chat:** Llama 2: Open foundation and fine-tuned chat models, arXiv, 2023. [[Paper](https://arxiv.org/abs/2307.09288)]
-* **Sparrow:** Improving alignment of dialogue agents via targeted human judgements, arXiv, 2022. [[Paper](https://arxiv.org/abs/2209.14375)]
+
+#### Aligning with Supported Evidence
+* **Webgpt:** Browser-assisted question-answering with human feedback, arXiv, 2021. [[Paper](https://arxiv.org/abs/2112.09332)]
+* **Sparrow:** Improving alignment of dialogue agents via targeted human judgments, arXiv, 2022. [[Paper](https://arxiv.org/abs/2209.14375)]
+* **GopherCite:** Teaching language models to support answers with verified quotes, arXiv, 2022. [[Paper](https://arxiv.org/abs/2203.11147)]
+
+#### Aligning Directly with SFT
+* **DPO:** Direct preference optimization: Your language model is secretly a reward model, arXiv, 2023. [[Paper](https://arxiv.org/abs/2305.18290)]
+* **Raft:** Reward ranked finetuning for generative foundation model alignment, arXiv, 2023. [[Paper](https://arxiv.org/abs/2304.06767)]
+* **Rrhf:** Rank responses to align language models with human feedback without tears, arXiv, 2023. [[Paper](https://arxiv.org/abs/2304.05302)]
+* **PRO:** Preference ranking optimization for human alignment, arXiv, 2023. [[Paper](https://arxiv.org/abs/2306.17492)]
+* **CoH:** Languages are rewards: Hindsight finetuning using human feedback, arXiv, 2023. [[Paper](https://arxiv.org/abs/2302.02676)]
+
+#### Aligning with Synthetic Feedback
+* **Constitutional ai:** Harmlessness from ai feedback, arXiv, 2022. [[Paper](https://arxiv.org/abs/2212.08073)]
+* **Alpacafarm:** A simulation framework for methods that learn from human feedback, arXiv, 2023. [[Paper](https://arxiv.org/abs/2305.14387)]
+* **Self-align:** Principle-driven self-alignment of language models from scratch with minimal human supervision, arXiv, 2023. [[Paper](https://arxiv.org/abs/2305.03047)]
+
+#### Aligning with Prompts
+* Prompting gpt-3 to be reliable, arXiv, 2022. [[Paper](https://arxiv.org/abs/2210.09150)]
+* The capacity for moral self-correction in large language models, arXiv, 2023. [[Paper](https://arxiv.org/abs/2302.07459)]
+
+#### Red-Teaming/Jailbreaking/Adversarial Attacks
+* Red teaming language models with language models, arXiv, 2023. [[Paper](https://arxiv.org/abs/2202.03286)]
+* Red teaming language models to reduce harms: Methods, scaling behaviors, and lessons learned, arXiv, 2022. [[Paper](https://arxiv.org/abs/2209.07858)]
+* Jailbroken: How does llm safety training fail?, arXiv, 2023. [[Paper](https://arxiv.org/abs/2307.02483)]
+* Explore, Establish, Exploit: Red Teaming Language Models from Scratch, arXiv, 2023. [[Paper](https://arxiv.org/abs/2306.09442)]
 
 ### Continue Pre-Training
 * Fine-tuned language models are continual learners, EMNLP, 2023. [[Paper](https://aclanthology.org/2022.emnlp-main.410/)]
