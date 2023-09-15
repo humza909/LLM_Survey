@@ -21,7 +21,7 @@ This repo is for our paper: https://arxiv.org/abs/2307.06435
       - [Aligning Directly with SFT](#aligning-directly-with-sft)
       - [Aligning with Synthetic Feedback](#aligning-with-synthetic-feedback)
       - [Aligning with Prompts](#aligning-with-prompts)
-      - [Red-Teaming_Jailbreaking_Adversarial Attacks](red-teaming_jailbreaking_adversarial-attacks)
+      - [Red-Teaming Jailbreaking Adversarial Attacks](red-teaming-jailbreaking-adversarial-attacks)
   - [Continue Pre-Training](#continue-pre-training)
   - [Sample Efficiency](#sample-efficiency)
 
@@ -137,7 +137,7 @@ This repo is for our paper: https://arxiv.org/abs/2307.06435
 * Prompting gpt-3 to be reliable, arXiv, 2022. [[Paper](https://arxiv.org/abs/2210.09150)]
 * The capacity for moral self-correction in large language models, arXiv, 2023. [[Paper](https://arxiv.org/abs/2302.07459)]
 
-#### Red-Teaming_Jailbreaking_Adversarial Attacks
+#### Red-Teaming Jailbreaking Adversarial Attacks
 * Red teaming language models with language models, arXiv, 2023. [[Paper](https://arxiv.org/abs/2202.03286)]
 * Red teaming language models to reduce harms: Methods, scaling behaviors, and lessons learned, arXiv, 2022. [[Paper](https://arxiv.org/abs/2209.07858)]
 * Jailbroken: How does llm safety training fail?, arXiv, 2023. [[Paper](https://arxiv.org/abs/2307.02483)]
