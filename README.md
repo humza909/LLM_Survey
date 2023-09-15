@@ -21,7 +21,7 @@ This repo is for our paper: https://arxiv.org/abs/2307.06435
       - [Aligning Directly with SFT](#aligning-directly-with-sft)
       - [Aligning with Synthetic Feedback](#aligning-with-synthetic-feedback)
       - [Aligning with Prompts](#aligning-with-prompts)
-      - [Red-Teaming/Jailbreaking/Adversarial Attacks](red-teaming/jalibreaking/adversarial-attacks)
+      - [Red-Teaming/Jailbreaking/Adversarial Attacks](red-teaming/jailbreaking/adversarial-attacks)
   - [Continue Pre-Training](#continue-pre-training)
   - [Sample Efficiency](#sample-efficiency)
 
