@@ -62,6 +62,8 @@ Please cite the paper, if our work is useful to you research:
 * Foundation Models for Decision Making: Problems, Methods, and Opportunities, arXiv, 2023. [[Paper](https://arxiv.org/abs/2303.04129)]
 * How Can Recommender Systems Benefit from Large Language Models: A Survey, arXiv, 2023. [[Paper](https://arxiv.org/abs/2306.05817)]
 * A Survey on Large Language Model based Autonomous Agents, arXiv, 2023. [[Paper](https://arxiv.org/abs/2308.11432)]
+* The Rise and Potential of Large Language Model Based Agents: A Survey, arXiv, 2023. [[Paper](https://arxiv.org/abs/2309.07864)]
+* A Survey on Large Language Model based Autonomous Agents, arXiv, 2023. [[Paper](https://arxiv.org/abs/2308.11432)]
 ## Pre-trained LLMs
 ### General Purpose
 * **T5:** Exploring the limits of transfer learning with a unified text-to-text transformer, JMLR, 2020. [[Paper](https://arxiv.org/abs/1910.10683)]
