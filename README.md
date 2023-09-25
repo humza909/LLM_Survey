@@ -5,7 +5,7 @@
 # A Comprehensive Overview of Large Language Models
 This repo is for our paper: https://arxiv.org/abs/2307.06435
 
-Please cite the paper, if our work is useful to you research:
+Please cite the paper, if our work is useful to your research:
 
 ```
 @article{naveed2023comprehensive,
