@@ -35,6 +35,7 @@ Please cite the paper, if our work is useful to your research:
       - [Red-Teaming Jailbreaking Adversarial Attacks](#red-teaming-jailbreaking-adversarial-attacks)
   - [Continue Pre-Training](#continue-pre-training)
   - [Sample Efficiency](#sample-efficiency)
+  - [Increasing Context Window](#increasing-context-window)
 
 ## Surveys
 * Towards Reasoning in Large Language Models: A Survey, arXiv, 2022. [[Paper](https://arxiv.org/abs/2212.10403)]
@@ -164,3 +165,5 @@ Please cite the paper, if our work is useful to your research:
 * Instruction Tuned Models are Quick Learners, arXiv, 2023. [[Paper](https://arxiv.org/abs/2306.05539)]
 * Maybe Only 0.5% Data is Needed: A Preliminary Exploration of Low Training Data Instruction Tuning, arXiv, 2023. [[Paper](https://arxiv.org/abs/2305.09246)]
 * **Lima:** Less is more for alignment, arXiv, 2023. [[Paper](https://arxiv.org/abs/2305.11206)]
+
+### Increasing Context Window
