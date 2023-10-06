@@ -36,6 +36,9 @@ Please cite the paper, if our work is useful to your research:
   - [Continue Pre-Training](#continue-pre-training)
   - [Sample Efficiency](#sample-efficiency)
 - [Increasing Context Window](#increasing-context-window)
+  - [Position Interpolation](#position-interpolation)
+  - [Efficient Attention Mechansim](efficient-attention-mechansim)
+  - [Extrapolation without Training](#extrapolation-without-training)
 
 ## Surveys
 * Towards Reasoning in Large Language Models: A Survey, arXiv, 2022. [[Paper](https://arxiv.org/abs/2212.10403)]
@@ -167,3 +170,16 @@ Please cite the paper, if our work is useful to your research:
 * **Lima:** Less is more for alignment, arXiv, 2023. [[Paper](https://arxiv.org/abs/2305.11206)]
 
 ## Increasing Context Window
+### Position Interpolation
+* Extending context window of large language models via positional interpolation, arXiv, 2023. [[Paper](https://arxiv.org/abs/2306.15595)]
+* **Giraffe:** Adventures in Expanding Context Lengths in LLMs, arXiv, 2023. [[Paper](https://arxiv.org/abs/2308.10882)]
+* **YaRN:** Efficient Context Window Extension of Large Language Models, arXiv, 2023. [[Paper](https://arxiv.org/abs/2309.00071)]
+### Efficient Attention Mechanism
+* **LongT5:** Efficient text-to-text transformer for long sequences, NAACl, 2022. [[Paper](https://arxiv.org/abs/2112.07916)]
+* **Colt5:** Faster long-range transformers with conditional computation, arXiv, 2023. [[Paper](https://arxiv.org/abs/2303.09752)]
+* **Longnet:** Scaling transformers to 1,000,000,000 tokens, arXiv, 2023. [[Paper](https://arxiv.org/abs/2307.02486)]
+* **LongLoRA:** Efficient Fine-tuning of Long-Context Large Language Models, arXiv, 2023. [[Paper](https://arxiv.org/abs/2309.12307)]
+### Extrapolation without Training
+* **LM-Infinite:** Simple On-the-Fly Length Generalization for Large Language Models, arXiv, 2023. [[Paper](https://arxiv.org/abs/2308.16137)]
+* **PCW:** Parallel context windows for large language models, ACL, 2023. [[Paper](https://aclanthology.org/2023.acl-long.352/)]
+
