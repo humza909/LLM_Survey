@@ -37,7 +37,7 @@ Please cite the paper, if our work is useful to your research:
   - [Sample Efficiency](#sample-efficiency)
 - [Increasing Context Window](#increasing-context-window)
   - [Position Interpolation](#position-interpolation)
-  - [Efficient Attention Mechansim](efficient-attention-mechanism)
+  - [Efficient Attention Mechanism](efficient-attention-mechanism)
   - [Extrapolation without Training](#extrapolation-without-training)
 
 ## Surveys
