@@ -53,7 +53,7 @@ Please cite the paper, if our work is useful to your research:
 * Recent advances in natural language processing via large pre-trained language models: A survey, ACM Surveys, 2021. [[Paper](https://dl.acm.org/doi/abs/10.1145/3605943)]
 * Complex QA and language models hybrid architectures, Survey, arXiv, 2023. [[Paper](https://arxiv.org/abs/2302.09051)]
 * Challenges and Applications of Large Language Models, arXiv, 2023. [[Paper](https://arxiv.org/abs/2307.10169)]
-* Augmented Language Models: a Survey, arXiv, 2023. [[Paper](https://arxiv.org/abs/2307.10169)]
+* Augmented Language Models: a Survey, arXiv, 2023. [[Paper](https://arxiv.org/abs/2302.07842)]
 * A Survey on Multimodal Large Language Models, arXiv, 2023. [[Paper](https://arxiv.org/abs/2306.13549)]
 * A Survey on Evaluation of Large Language Models, arXiv, 2023. [[Paper](https://arxiv.org/abs/2307.03109)]
 * A Survey of Large Language Models, arXiv, 2023. [[Paper](https://arxiv.org/abs/2303.18223)]
