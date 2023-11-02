@@ -39,6 +39,8 @@ Please cite the paper, if our work is useful to your research:
   - [Position Interpolation](#position-interpolation)
   - [Efficient Attention Mechanism](#efficient-attention-mechanism)
   - [Extrapolation without Training](#extrapolation-without-training)
+- [Augmented LLMs](#augmented-llms)
+  - [Retrieval Augmented LLMs](#retrieval-augmented-llms)
 
 ## Surveys
 * Towards Reasoning in Large Language Models: A Survey, arXiv, 2022. [[Paper](https://arxiv.org/abs/2212.10403)]
@@ -184,3 +186,12 @@ Please cite the paper, if our work is useful to your research:
 * **LM-Infinite:** Simple On-the-Fly Length Generalization for Large Language Models, arXiv, 2023. [[Paper](https://arxiv.org/abs/2308.16137)]
 * **PCW:** Parallel context windows for large language models, ACL, 2023. [[Paper](https://aclanthology.org/2023.acl-long.352/)]
 
+## Augmented LLMs
+### Retrieval Augmented LLMs
+* Active retrieval augmented generation, arXiv, 2023. [[Paper](https://arxiv.org/abs/2305.06983)]
+* In-context retrieval-augmented language models, arXiv, 2023. [[Paper](https://arxiv.org/abs/2302.00083)]
+* Rationale-augmented ensembles in language models, arXiv, 2022. [[Paper](https://arxiv.org/abs/2207.00747)]
+* **Repocoder:** Repository-level code completion through iterative retrieval and generation, arXiv, 2023. [[Paper](https://arxiv.org/abs/2303.12570)]
+* Shall we pretrain autoregressive language models with retrieval? a comprehensive study, arXiv, 2023. [[Paper](https://arxiv.org/abs/2304.06762)]
+* Learning to Retrieve In-Context Examples for Large Language Models, arXiv, 2023. [[Paper](https://arxiv.org/abs/2307.07164)]
+* What makes good in-context examples for GPT-3?, arXiv, 2023. [[Paper](https://arxiv.org/abs/2101.06804)]
