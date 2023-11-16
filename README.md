@@ -41,6 +41,7 @@ Please cite the paper, if our work is useful to your research:
   - [Extrapolation without Training](#extrapolation-without-training)
 - [Augmented LLMs](#augmented-llms)
   - [Retrieval Augmented LLMs](#retrieval-augmented-llms)
+  - [Tool Augmented LLMs](#tool-augmented-llms)
 
 ## Surveys
 * Towards Reasoning in Large Language Models: A Survey, arXiv, 2022. [[Paper](https://arxiv.org/abs/2212.10403)]
@@ -212,3 +213,18 @@ Please cite the paper, if our work is useful to your research:
 * Memory augmented large language models are computationally universal, arXiv, 2023. [[Paper](https://arxiv.org/abs/2301.04589)]
 * **RET-LLM:** Towards a General Read-Write Memory for Large Language Models, arXiv, 2023. [[Paper](https://arxiv.org/abs/2305.14322)]
 * **Atlas:** Few-shot Learning with Retrieval Augmented Language Models, JMLR, 2023. [[Paper](https://arxiv.org/abs/2208.03299)]
+### Tool Augmented LLMs
+* **Talm:** Tool augmented language models, arX0v, 2022. [[Paper](https://arxiv.org/abs/2205.12255)]
+* **AssistGPT:** A General Multi-modal Assistant that can Plan, Execute, Inspect, and Learn, arXiv, 2023. [[Paper](https://arxiv.org/abs/2306.08640)]
+* **Chameleon:** Plug-and-play compositional reasoning with large language models, arXiv, 2023. [[Paper](https://arxiv.org/abs/2304.09842)]
+* **Art:** Automatic multi-step reasoning and tool-use for large language models, arXiv, 2023. [[Paper](https://arxiv.org/abs/2303.09014)]
+* Tool documentation enables zero-shot tool-usage with large language models, arXiv, 2023. [[Paper](https://arxiv.org/abs/2308.00675)]
+* **RestGPT:** Connecting Large Language Models with Real-World Applications via RESTful APIs, arXiv, 2023. [[Paper](https://arxiv.org/abs/2306.06624)]
+* **ToolkenGPT:** Augmenting Frozen Language Models with Massive Tools via Tool Embeddings, arXiv, 2023. [[Paper](https://arxiv.org/abs/2305.11554)]
+* **Gorilla:** Large language model connected with massive apis, arXiv, 2023. [[Paper](https://arxiv.org/abs/2305.15334)]
+* On the Tool Manipulation Capability of Open-source Large Language Models, arXiv, 2023. [[Paper](https://arxiv.org/abs/2305.16504)]
+* **Toolllm:** Facilitating large language models to master 16000+ real-world apis, arXiv, 2023. [[Paper](https://arxiv.org/abs/2307.16789)]
+* **Hugginggpt:** Solving ai tasks with chatgpt and its friends in huggingface, arXiv, 2023. [[Paper](https://arxiv.org/abs/2303.17580)]
+* **Gpt4tools:** Teaching large language model to use tools via self-instruction, arXiv, 2023. [[Paper](https://arxiv.org/abs/2305.18752)]
+* **Taskmatrix. ai:** Completing tasks by connecting foundation models with millions of apis, arXiv, 2023. [[Paper](https://arxiv.org/abs/2303.16434)]
+* **Vipergpt:** Visual inference via python execution for reasoning, arXiv, 2023. [[Paper](https://arxiv.org/abs/2303.08128)]
